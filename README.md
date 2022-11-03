@@ -1,2 +1,3 @@
-# HNG9: Backend Stage 1
-# Live link: https://mofe-hng9.herokuapp.com/stage1
+# HNG9: Backend Stage 2
+# Live link: https://mofe-hng9-2.herokuapp.com/stage2
+## Accepts POST requests
