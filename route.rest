@@ -1,0 +1,14 @@
+//Test API Endpoints with Rest Client Extension
+
+GET http://localhost:7000/stage2
+###
+
+POST http://localhost:7000/stage2
+Content-Type: application/json
+
+{
+  "operation_type": "subtraction",
+  "x": 99,
+  "y": 57
+}
+###
