@@ -43,7 +43,7 @@ app.post('/stage2', (req, res) => {
             "result": result,
             "operation_type": req.body.operation_type
         }
-        res.status(201).type('application/json').send(myResponse);
+        res.status(201).json(myResponse);
     }
 })
 
